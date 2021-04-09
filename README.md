@@ -14,7 +14,24 @@ Afin de gagner du temps, le responsable de Simply-Home France à pris la décisi
 
 ### Adaptations nécessaires
 
-**Le site**
+**Modifications de l'existant**
 
 ![](.readme/from-to.png "Evolution du site")
 
+**Ajout d'une page annonce**
+
+Une page annonce permet de voir le détaille d'une annonce immobilière.
+
+Celle-ci comporte :
+
+- Un titre
+- Une image
+- Une description
+- Une barre d'informations
+  - Taille en m²
+  - Ville
+  - Prix
+  - Classe énergétique
+  - Année de construction
+
+![](.readme/annonce.png "Annonce")
