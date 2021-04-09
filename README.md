@@ -34,4 +34,6 @@ Celle-ci comporte :
   - Classe énergétique
   - Année de construction
 
+**Exemple d'annonce**
+
 ![](.readme/annonce.png "Annonce")
