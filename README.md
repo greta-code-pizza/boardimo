@@ -44,14 +44,14 @@ Les icônes sont disponibles dans le dossier image.
 
 **Agence de Vannes**
 
-[Lien de l'agence]: https://simply-home.herokuapp.com/index.php
+[Lien de l'agence](https://simply-home.herokuapp.com/index.php)
 
 
 **Agence d'Auray**
 
-[Lien de l'agence]: https://simply-home-cda.herokuapp.com/pages/accueil.php
+[Lien de l'agence](https://simply-home-cda.herokuapp.com/pages/accueil.php)
 
 
 **Agence de Questembert**
 
-[Lien de l'agence]: https://simply-home-scrap.herokuapp.com/Accueil.php
+[Lien de l'agence](https://simply-home-scrap.herokuapp.com/Accueil.php)
