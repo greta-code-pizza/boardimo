@@ -42,19 +42,52 @@ Les icônes sont disponibles dans le dossier image.
 
 #### Les agences
 
-**Agence de Vannes**
+##### Agence de Vannes
 
 [Lien de l'agence](https://simply-home.herokuapp.com/index.php)
 
+**Ville couvertes par l'agence :**
 
-**Agence d'Auray**
+- Vannes
+- Séné 
+- Auray
+
+**Informations complémentaires**
+
+Cette agence ne comprend pas les frais d'honoraires dans ses prix.
+
+##### Agence d'Auray
 
 [Lien de l'agence](https://simply-home-cda.herokuapp.com/pages/accueil.php)
 
+**Ville couvertes par l'agence :**
 
-**Agence de Questembert**
+- Auray
+- Questembert 
+- Vannes
+
+**Informations complémentaires**
+
+Cette agence comprend les frais d'honoraires dans ses prix.
+
+
+
+##### Agence de Questembert
 
 [Lien de l'agence](https://simply-home-scrap.herokuapp.com/Accueil.php)
 
+**Ville couvertes par l'agence :**
+
+- Questembert
+- Séné 
+- Vannes
+
+**Informations complémentaires**
+
+Cette agence comprend les frais d'honoraires dans ses prix.
+
+
 
 # S3 2eme partie - Boardimo (Ruby & SQlite)
+
+_A venir..._
