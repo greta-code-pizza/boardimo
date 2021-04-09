@@ -1,4 +1,4 @@
-# S3 1er partie - Simply Home
+# S3 1er partie - Simply Dev (Git & Github)
 
 #### Simply Home lance Simply Home - Agence immobilière
 
@@ -55,3 +55,6 @@ Les icônes sont disponibles dans le dossier image.
 **Agence de Questembert**
 
 [Lien de l'agence](https://simply-home-scrap.herokuapp.com/Accueil.php)
+
+
+# S3 2eme partie - Boardimo (Ruby & SQlite)
