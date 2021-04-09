@@ -16,5 +16,5 @@ Afin de gagner du temps, le responsable de Simply-Home France à pris la décisi
 
 **Le site**
 
-![](.readme/logo-from.png "Evolution du logo")
+![](.readme/from-to.png "Evolution du site")
 
