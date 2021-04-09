@@ -12,3 +12,9 @@ Dans cette première partie, vous intégrez le pôle de développement de Simply
 
 Afin de gagner du temps, le responsable de Simply-Home France à pris la décision d'adapter les site des constructeurs pour en faire des agences immobilières.
 
+### Adaptations nécessaires
+
+**Le site**
+
+![](.readme/logo-from.png "Evolution du logo")
+
