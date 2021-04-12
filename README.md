@@ -139,6 +139,74 @@ Les tâches achevées
 
 # S3 2eme partie - Boardimo (Ruby & SQlite)
 
-Vous travaillez maintenant pour Boardimo, un site d'estimation de valeur d'un bien immobilier.
+__Mise au propre à venir__
 
-Votre rôle 
+Vous travaillez maintenant pour Boardimo, un site d'estimation de valeur de biens immobiliers.
+
+Le but de ce site est de permettre la récupération, le stockage et la comparaison de données extraite des sites du groupe Simply-Home.
+
+#### Les deux étapes clés 
+
+##### Collecte de donnée 
+
+Dans un premier temps vous allez créer un script capable de récupérer et stocker la donnée dans une base de donnée SQlite3.
+
+Vous devrez avoir au moins deux tables :
+
+- House
+- City
+
+##### Scrapping à la volée
+
+Boardimo permettra aussi de récupérer le contenu d'une annonce de façon à ce que pour chaque saisie d'une nouvelle annonce (pas encore en base de donnée).
+
+Cette étape permettra l'affichage de l'analyse de l'offre.
+
+#### Analyse (WIP)
+
+Afin de facilité l'affichage une maquette est présente dans ce dossier (index.html et style.css). L'analyse se divise en 4 étapes dont l'affichage évolue en fonction du résultat :
+
+**vert (alert-success)** : Score favorable à très favorable
+**jaune (alert-info)** : Score moyen à favorable
+**orange (alert-warning)** : Score défavorable à moyen
+**rouge (alert-danger)** : Score très défavorable à défavorable
+
+##### Comparaison du prix au m²
+
+La comparaison s'effectue par rapport à la moyenne du prix dans la ville ou se situe le bien.
+
+- **vert** : prix du bien < moyenne * 0.75
+
+- **jaune** : moyenne * 0.75 <= prix du bien < moyenne * 1.25
+
+- **orange** : moyenne * 1.25 <= prix du bien < moyenne * 1.5
+
+- **rouge** : prix du bien >= moyenne * 1.5
+
+
+##### Comparaison du prix au m²
+
+##### Comparaison du prix au m²
+
+##### Comparaison du prix au m²
+
+
+
+
+
+Pour une annonce existante, boardimo 
+
+Scrapping des sites
+
+Dans un premier temps, vous allez scrapper l'ensemble des annonces des trois sites 
+
+Dans un second temps vous allez être capable de récupérer 
+
+
+Contraintes :
+
+Au moins une table concernant les villes et une table concernant les maisons
+Faire une jointure 
+
+
+
