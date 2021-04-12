@@ -139,4 +139,6 @@ Les tâches achevées
 
 # S3 2eme partie - Boardimo (Ruby & SQlite)
 
-_A venir..._
+Vous travaillez maintenant pour Boardimo, un site d'estimation de valeur d'un bien immobilier.
+
+Votre rôle 
