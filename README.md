@@ -176,37 +176,38 @@ Afin de facilité l'affichage une maquette est présente dans ce dossier (index.
 La comparaison s'effectue par rapport à la moyenne du prix dans la ville ou se situe le bien.
 
 - **vert** : prix du bien < moyenne * 0.75
-
 - **jaune** : moyenne * 0.75 <= prix du bien < moyenne * 1.25
-
 - **orange** : moyenne * 1.25 <= prix du bien < moyenne * 1.5
-
 - **rouge** : prix du bien >= moyenne * 1.5
 
 
-##### Comparaison du prix au m²
+##### Année de construction
 
-##### Comparaison du prix au m²
+- **vert** (moins de 10 ans): 245€/m2 d'économies par rapport à la concurrence 
+- **jaune** (entre 10 inclus et 20 ans exclus): 105€/m2 d'économies par rapport à la concurrence 
+- **orange** (entre 20 ans inclus et 40 ans exclus): 95€/m2 de surcout par rapport à la concurrence 
+- **rouge** (plus de 40 ans): 355€/m2 de surcout par rapport à la concurrence
 
-##### Comparaison du prix au m²
+##### Classe énergétique
 
+**vert** (A et B)
+- A : 216.6€/m2 d'économies par rapport à la concurrence 
+- B : 161.5€/m2 d'économies par rapport à la concurrence 
 
+**jaune** (C et D)
+- C : 81.7€/m2 d'économies par rapport à la concurrence 
+- D : 30.4€/m2 de surcout par rapport à la concurrence 
 
+**orange** (E)
+- E : 76€/m2 de surcout par rapport à la concurrence 
 
+**rouge** (F et G)
+- F : 188.1€/m2 de surcout par rapport à la concurrence 
+- G : 340€/m2 de surcout par rapport à la concurrence 
 
-Pour une annonce existante, boardimo 
+##### Rapport final
 
-Scrapping des sites
-
-Dans un premier temps, vous allez scrapper l'ensemble des annonces des trois sites 
-
-Dans un second temps vous allez être capable de récupérer 
-
-
-Contraintes :
-
-Au moins une table concernant les villes et une table concernant les maisons
-Faire une jointure 
+__À venir__
 
 
 
