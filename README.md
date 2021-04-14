@@ -158,9 +158,7 @@ Vous devrez avoir au moins deux tables :
 
 ##### Scrapping à la volée
 
-Boardimo permettra aussi de récupérer le contenu d'une annonce de façon à ce que pour chaque saisie d'une nouvelle annonce (pas encore en base de donnée).
-
-Cette étape permettra l'affichage de l'analyse de l'offre.
+Boardimo permettra aussi d'analyser le contenu d'une annonce qui n'est pas encore présente en base de donnée.
 
 #### Analyse (WIP)
 
