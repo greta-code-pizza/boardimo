@@ -190,7 +190,13 @@ Prix moyen d'une rénovation d'une rénovation en tout genre : 345€/m2
 - **orange** (entre 20 ans inclus et 40 ans exclus): 95€/m2 de surcout par rapport à la concurrence 
 - **rouge** (plus de 40 ans): 355€/m2 de surcout par rapport à la concurrence
 
-Détail du calcul pour cette 
+
+Exemple de message lié à l'année de construction :
+
+premier_calcul = (prix moyen au m2 - économies) * m2
+deuxieme_calcul = premier_calcul - prix moyen au m2 * m2
+
+_Suite à un achat de ce type, un acquereur dépensera en moyenne `premier_calcul` de rénovations en tout genre soit `deuxieme_calcul` de moins que la moyenne pour cette surface_
 
 ##### Classe énergétique
 
