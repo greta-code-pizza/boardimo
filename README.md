@@ -233,6 +233,6 @@ moyenne du prix au m2 * 1.25 <= prix_m2_reel
 
 Exemple de message lié à la fourchette de prix :
 
-Afin de correspondre au prix du marché nous évaluons que le prix de ce bien devrait se situer entre `prix m2 observé * 0.9` et `prix m2 observé * 1.1`
+_Afin de correspondre au prix du marché nous évaluons que le prix de ce bien devrait se situer entre `prix m2 observé * 0.9` et `prix m2 observé * 1.1`_
 
 
