@@ -183,6 +183,8 @@ La comparaison s'effectue par rapport à la moyenne du prix dans la ville ou se 
 
 ##### Année de construction
 
+Prix moyen d'une rénovation d'une rénovation en tout genre : 345€/m2
+
 - **vert** (moins de 10 ans): 245€/m2 d'économies par rapport à la concurrence 
 - **jaune** (entre 10 inclus et 20 ans exclus): 105€/m2 d'économies par rapport à la concurrence 
 - **orange** (entre 20 ans inclus et 40 ans exclus): 95€/m2 de surcout par rapport à la concurrence 
