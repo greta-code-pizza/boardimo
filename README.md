@@ -209,7 +209,24 @@ Prix moyen d'une rénovation d'une rénovation en tout genre : 345€/m2
 
 ##### Rapport final
 
-__À venir__
+Le prix réel au mètre carré doit prendre en compte les économies ou surcout liés aux classes énergétiques et à l'année de contruction de tel sorte que :
 
+prix_m2_reel = prix_m2_vente + surcout_classe_energetique + surcout_annee_contruction.
+
+**vert**
+
+Si prix_m2_reel < moyenne du prix au m2
+
+**jaune**
+
+moyenne du prix au m2  <= prix_m2_reel < moyenne du prix au m2 * 1.1 
+
+**orange**
+
+moyenne du prix au m2 * 1.1 <= prix_m2_reel < moyenne du prix au m2 * 1.25
+
+**rouge**
+
+moyenne du prix au m2 * 1.25 <= prix_m2_reel 
 
 
