@@ -145,6 +145,9 @@ Vous travaillez maintenant pour Boardimo, un site d'estimation de valeur de bien
 
 Le but de ce site est de permettre la récupération, le stockage et la comparaison de données extraite des sites du groupe Simply-Home.
 
+**Exemple de rendu :**
+![](images/boardimo/maquette.png "Maquette")
+
 #### Les deux étapes clés 
 
 ##### Collecte de données 
