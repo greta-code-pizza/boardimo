@@ -136,10 +136,10 @@ Les tâches en cours de revue par un membre de l'équipe
 #### Done : 
 Les tâches achevées
 
+---
+
 
 # S3 2eme partie - Boardimo (Ruby & SQlite)
-
-__Mise au propre à venir__
 
 Vous travaillez maintenant pour Boardimo, un site d'estimation de valeur de biens immobiliers.
 
@@ -147,7 +147,7 @@ Le but de ce site est de permettre la récupération, le stockage et la comparai
 
 #### Les deux étapes clés 
 
-##### Collecte de donnée 
+##### Collecte de données 
 
 Dans un premier temps vous allez créer un script capable de récupérer et stocker la donnée dans une base de donnée SQlite3.
 
@@ -160,9 +160,9 @@ Vous devrez avoir au moins deux tables :
 
 Boardimo permettra aussi d'analyser le contenu d'une annonce qui n'est pas encore présente en base de donnée.
 
-#### Analyse (WIP)
+#### Analyse
 
-Afin de facilité l'affichage une maquette est présente dans ce dossier (index.html et style.css). L'analyse se divise en 4 étapes dont l'affichage évolue en fonction du résultat :
+Afin de faciliter l'affichage, une maquette est présente dans ce dossier __(index.html et style.css)__. L'analyse se divise en 4 étapes dont l'affichage évolue en fonction du résultat :
 
 **vert (alert-success)** : Score favorable à très favorable
 **jaune (alert-info)** : Score moyen à favorable
